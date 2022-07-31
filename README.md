@@ -1,3 +1,3 @@
-- 📚 Computer Science major
+- 📚 Computer Science major @ CU
 - 🌱 Currently learning HTML, CSS & JavaScript
 - 💞️ Open to collaborating on new projects!
