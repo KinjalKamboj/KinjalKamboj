@@ -1,3 +1,0 @@
-- 📚 Computer Science major
-- 🌱 Currently learning HTML, CSS & JavaScript
-- 💞️ Open to collaborating on new projects!
